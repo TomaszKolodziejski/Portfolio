@@ -2,6 +2,8 @@
 
 # O mnie
 
+Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT, lecz zawsze byłem tym dociekliwym typem, który pytał "co i dlaczego nie działa?". Chcę rozpocząć swoją przygodę z testowaniem i wiem, że moja sumienność, dokładność, odpowiedzialność i komunikatywność pozwolą mi wejść w ten dział branży IT. Chętnie i szybko przyswajam nową wiedzę i chcę rozwijać się zawodowo.
+
 # Znajomość narzędzi
 * JIRA - narzędzie do śledzenia błędów i zarządzania projektami
 * TestLink - narzędzie do zarządzania testami
