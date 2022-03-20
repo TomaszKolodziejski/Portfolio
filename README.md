@@ -33,7 +33,7 @@
 [przypadki testowe dla formularza rejestracji użytkownika na stronie www.dlugosiodlo.pl](https://docs.google.com/document/d/1U--1n4R_qOQ8eDDAAc0_1s5fS9L4iOIB/edit?usp=sharing&ouid=109381071359845907480&rtpof=true&sd=true)
 
 # Moje raporty z testowania
-[raport z testu formularza rejestracji użytkownika na stronie www.dlugosiodlo.pl](https://drive.google.com/file/d/1ouP15O-qS4VDN9DlWQoV-R9e4i3XoS9d/view?usp=sharing)
+[raport z testu formularza rejestracji użytkownika na stronie www.dlugosiodlo.pl](https://docs.google.com/document/d/19yfQAk-_pc2aW2aqEBVmVsKvuRkeS0FY/edit?usp=sharing&ouid=109381071359845907480&rtpof=true&sd=true)
 
 # Moje zgłoszenia defektów
 [zgłoszenie defektu formularza rejestracji użytkownika na stronie www.dlugosiodlo.pl](https://drive.google.com/file/d/1FGuKpZzcKi2X-tnSpw15Qd3CPkTFm1IW/view?usp=sharing)
