@@ -7,6 +7,7 @@ Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT
 # Znajomość narzędzi
 * JIRA - narzędzie do śledzenia błędów i zarządzania projektami
 * TestLink - narzędzie do zarządzania testami
+* qTest - narzędzie do zarządzania testami
 * MySQL - system zarządzania bazami danych
 
 # Umiejętności
