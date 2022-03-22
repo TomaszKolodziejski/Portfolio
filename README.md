@@ -9,6 +9,7 @@ Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT
 * TestLink - narzędzie do zarządzania testami
 * qTest - narzędzie do zarządzania testami
 * MySQL - system zarządzania bazami danych
+* ISTQB - posiadam zasób wiedzy pozwalający na przystąpienie do egzaminu certyfikującego ISTQB.
 
 # Umiejętności
 * SQL
