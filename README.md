@@ -10,6 +10,7 @@ Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT
 * qTest - narzędzie do zarządzania testami
 * MySQL - system zarządzania bazami danych
 * ShareX - narzędzie do przechwytywania ekranu
+* PicPick - narzędzie do przechwytywania ekranu
 
 # Umiejętności
 * SQL
