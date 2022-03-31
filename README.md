@@ -17,7 +17,8 @@ Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT
 * Testowanie oprogramowania
 * Pisanie przypadków testowych
 * Raportowanie błędów
-* ISTQB - posiadam zasób wiedzy pozwalający na przystąpienie do egzaminu certyfikującego ISTQB.
+* ISTQB - posiadam zasób wiedzy pozwalający na przystąpienie do egzaminu certyfikującego ISTQB
+* Podstawy HTML i CSS
 
 # Kursy i szkolenia
 * Kurs "Tester oprogramowania" - Waldemar Szafraniec
