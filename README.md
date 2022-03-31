@@ -9,13 +9,14 @@ Moje dotychczasowe doświadczenie zawodowe zaledwie ocierało się o branżę IT
 * TestLink - narzędzie do zarządzania testami
 * qTest - narzędzie do zarządzania testami
 * MySQL - system zarządzania bazami danych
-* ISTQB - posiadam zasób wiedzy pozwalający na przystąpienie do egzaminu certyfikującego ISTQB.
+* ShareX - narzędzie do przechwytywania ekranu
 
 # Umiejętności
 * SQL
 * Testowanie oprogramowania
 * Pisanie przypadków testowych
 * Raportowanie błędów
+* ISTQB - posiadam zasób wiedzy pozwalający na przystąpienie do egzaminu certyfikującego ISTQB.
 
 # Kursy i szkolenia
 * Kurs "Tester oprogramowania" - Waldemar Szafraniec
